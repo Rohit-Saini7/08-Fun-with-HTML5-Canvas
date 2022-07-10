@@ -4,7 +4,7 @@ Date: July 10, 2022
 
 # Eighth challange of [JavaScript30](https://javascript30.com/)
 
-. To experience on your own visit [here](https://rohit-saini7.github.io/08-Fun-with-HTML5-Canvas/)
+Introduction and fun with canvas. To experience on your own visit [here](https://rohit-saini7.github.io/08-Fun-with-HTML5-Canvas/)
 
 ## What is JavaScript 30
 
